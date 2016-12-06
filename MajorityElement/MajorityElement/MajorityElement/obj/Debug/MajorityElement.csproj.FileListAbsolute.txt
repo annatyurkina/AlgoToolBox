@@ -1,0 +1,6 @@
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\bin\Debug\MajorityElement.exe.config
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\obj\Debug\MajorityElement.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\bin\Debug\MajorityElement.exe
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\bin\Debug\MajorityElement.pdb
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\obj\Debug\MajorityElement.exe
+I:\AlgoToolbox\MajorityElement\MajorityElement\MajorityElement\obj\Debug\MajorityElement.pdb

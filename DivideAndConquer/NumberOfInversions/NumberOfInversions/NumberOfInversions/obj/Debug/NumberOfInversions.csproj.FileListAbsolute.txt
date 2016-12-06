@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\bin\Debug\NumberOfInversions.exe.config
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\bin\Debug\NumberOfInversions.exe
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\bin\Debug\NumberOfInversions.pdb
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\obj\Debug\NumberOfInversions.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\obj\Debug\NumberOfInversions.exe
+I:\AlgoToolbox\DivideAndConquer\NumberOfInversions\NumberOfInversions\NumberOfInversions\obj\Debug\NumberOfInversions.pdb

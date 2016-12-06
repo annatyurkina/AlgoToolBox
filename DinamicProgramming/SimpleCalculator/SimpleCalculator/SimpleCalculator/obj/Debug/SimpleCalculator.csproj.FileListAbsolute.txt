@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+I:\AlgoToolbox\DinamicProgramming\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

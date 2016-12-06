@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+I:\AlgoToolbox\DivideAndConquer\BinarySearch\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

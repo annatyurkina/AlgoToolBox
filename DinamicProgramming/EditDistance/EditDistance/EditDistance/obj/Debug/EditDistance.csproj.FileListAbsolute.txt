@@ -1,0 +1,3 @@
+I:\AlgoToolbox\DinamicProgramming\EditDistance\EditDistance\EditDistance\bin\Debug\EditDistance.exe.config
+I:\AlgoToolbox\DinamicProgramming\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.exe
+I:\AlgoToolbox\DinamicProgramming\EditDistance\EditDistance\EditDistance\obj\Debug\EditDistance.pdb

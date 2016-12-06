@@ -1,0 +1,5 @@
+I:\AlgoToolbox\FirstKPlaces\FirstKPlaces\FirstKPlaces\bin\Debug\FirstKPlaces.exe.config
+I:\AlgoToolbox\FirstKPlaces\FirstKPlaces\FirstKPlaces\bin\Debug\FirstKPlaces.exe
+I:\AlgoToolbox\FirstKPlaces\FirstKPlaces\FirstKPlaces\bin\Debug\FirstKPlaces.pdb
+I:\AlgoToolbox\FirstKPlaces\FirstKPlaces\FirstKPlaces\obj\Debug\FirstKPlaces.exe
+I:\AlgoToolbox\FirstKPlaces\FirstKPlaces\FirstKPlaces\obj\Debug\FirstKPlaces.pdb

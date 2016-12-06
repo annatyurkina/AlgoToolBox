@@ -1,0 +1,6 @@
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\bin\Debug\MaximisingSalary.exe.config
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\bin\Debug\MaximisingSalary.exe
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\bin\Debug\MaximisingSalary.pdb
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\obj\Debug\MaximisingSalary.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\obj\Debug\MaximisingSalary.exe
+I:\AlgoToolbox\MaximisingSalary\MaximisingSalary\MaximisingSalary\obj\Debug\MaximisingSalary.pdb

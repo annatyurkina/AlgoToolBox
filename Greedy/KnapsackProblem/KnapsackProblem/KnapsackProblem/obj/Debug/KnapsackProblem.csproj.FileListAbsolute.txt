@@ -1,0 +1,6 @@
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+I:\AlgoToolbox\KnapsackProblem\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.pdb

@@ -1,0 +1,6 @@
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\bin\Debug\MaximiseAdProfit.exe.config
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\bin\Debug\MaximiseAdProfit.exe
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\bin\Debug\MaximiseAdProfit.pdb
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\obj\Debug\MaximiseAdProfit.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\obj\Debug\MaximiseAdProfit.exe
+I:\AlgoToolbox\MaximiseAdProfit\MaximiseAdProfit\MaximiseAdProfit\obj\Debug\MaximiseAdProfit.pdb

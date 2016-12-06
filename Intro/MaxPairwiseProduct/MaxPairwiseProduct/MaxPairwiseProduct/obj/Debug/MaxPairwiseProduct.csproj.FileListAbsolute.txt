@@ -1,0 +1,6 @@
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\MaxPairwiseProduct.exe.config
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\MaxPairwiseProduct.exe
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\MaxPairwiseProduct.pdb
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\MaxPairwiseProduct.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\MaxPairwiseProduct.exe
+I:\AlgoToolbox\MaxPairwiseProduct\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\MaxPairwiseProduct.pdb

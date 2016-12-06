@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\bin\Debug\Lottery.exe.config
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\bin\Debug\Lottery.exe
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\bin\Debug\Lottery.pdb
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\obj\Debug\Lottery.exe
+I:\AlgoToolbox\DivideAndConquer\Lottery\Lottery\Lottery\obj\Debug\Lottery.pdb

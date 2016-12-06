@@ -1,0 +1,6 @@
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\bin\Debug\NumberOfCoins.exe.config
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\bin\Debug\NumberOfCoins.exe
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\bin\Debug\NumberOfCoins.pdb
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\obj\Debug\NumberOfCoins.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\obj\Debug\NumberOfCoins.exe
+I:\AlgoToolbox\NumberOfCoins\NumberOfCoins\NumberOfCoins\obj\Debug\NumberOfCoins.pdb

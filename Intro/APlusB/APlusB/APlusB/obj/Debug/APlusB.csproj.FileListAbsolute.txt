@@ -1,0 +1,6 @@
+I:\AlgoToolbox\APlusB\APlusB\APlusB\bin\Debug\APlusB.exe.config
+I:\AlgoToolbox\APlusB\APlusB\APlusB\bin\Debug\APlusB.exe
+I:\AlgoToolbox\APlusB\APlusB\APlusB\bin\Debug\APlusB.pdb
+I:\AlgoToolbox\APlusB\APlusB\APlusB\obj\Debug\APlusB.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\APlusB\APlusB\APlusB\obj\Debug\APlusB.exe
+I:\AlgoToolbox\APlusB\APlusB\APlusB\obj\Debug\APlusB.pdb

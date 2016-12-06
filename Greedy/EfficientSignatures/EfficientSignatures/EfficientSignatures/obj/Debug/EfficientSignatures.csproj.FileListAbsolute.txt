@@ -1,0 +1,6 @@
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\bin\Debug\EfficientSignatures.exe.config
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\bin\Debug\EfficientSignatures.exe
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\bin\Debug\EfficientSignatures.pdb
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\obj\Debug\EfficientSignatures.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\obj\Debug\EfficientSignatures.exe
+I:\AlgoToolbox\EfficientSignatures\EfficientSignatures\EfficientSignatures\obj\Debug\EfficientSignatures.pdb

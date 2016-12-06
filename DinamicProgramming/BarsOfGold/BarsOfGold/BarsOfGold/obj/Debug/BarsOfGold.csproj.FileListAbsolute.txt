@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.exe.config
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.exe
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.pdb
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.exe
+I:\AlgoToolbox\DinamicProgramming\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.pdb

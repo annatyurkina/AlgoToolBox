@@ -1,0 +1,6 @@
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\bin\Debug\QuickSort3.exe.config
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\obj\Debug\QuickSort3.csprojResolveAssemblyReference.cache
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\bin\Debug\QuickSort3.exe
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\bin\Debug\QuickSort3.pdb
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\obj\Debug\QuickSort3.exe
+I:\AlgoToolbox\DivideAndConquer\QuickSort3\QuickSort3\QuickSort3\obj\Debug\QuickSort3.pdb
