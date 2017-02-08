@@ -1,0 +1,6 @@
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.exe.config
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.exe
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\bin\Debug\BarsOfGold.pdb
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.csprojResolveAssemblyReference.cache
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.exe
+C:\Anna\AlgoToolbox\BarsOfGold\BarsOfGold\BarsOfGold\obj\Debug\BarsOfGold.pdb

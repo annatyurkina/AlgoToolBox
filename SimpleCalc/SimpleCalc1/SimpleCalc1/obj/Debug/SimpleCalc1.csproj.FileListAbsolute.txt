@@ -1,0 +1,6 @@
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\bin\Debug\SimpleCalc1.exe.config
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\bin\Debug\SimpleCalc1.exe
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\bin\Debug\SimpleCalc1.pdb
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\obj\Debug\SimpleCalc1.csprojResolveAssemblyReference.cache
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\obj\Debug\SimpleCalc1.exe
+C:\Anna\AlgoToolbox\SimpleCalc\SimpleCalc1\SimpleCalc1\obj\Debug\SimpleCalc1.pdb

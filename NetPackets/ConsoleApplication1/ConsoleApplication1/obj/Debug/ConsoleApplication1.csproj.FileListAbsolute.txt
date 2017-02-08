@@ -1,0 +1,6 @@
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Anna\AlgoToolbox\NetPackets\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

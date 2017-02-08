@@ -1,0 +1,6 @@
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\bin\Debug\NetPackets.exe.config
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\bin\Debug\NetPackets.exe
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\bin\Debug\NetPackets.pdb
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\obj\Debug\NetPackets.csprojResolveAssemblyReference.cache
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\obj\Debug\NetPackets.exe
+C:\Anna\AlgoToolbox\NetPackets\NetPackets\NetPackets\obj\Debug\NetPackets.pdb
