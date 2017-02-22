@@ -1,0 +1,6 @@
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+C:\Anna\Algorithms\CrackCode\Chapter2LinkedLists\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
